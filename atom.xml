@@ -362,7 +362,7 @@
     <published>2018-05-23T04:03:10.000Z</published>
     <updated>2019-09-17T02:39:40.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>发现一个小技巧，把视频先传到抖音或者其他平台上去，平台应该会帮你压缩处理，然后下载下来，放到CDN上，就不会这么大了，哈哈哈哈哈。<br></p><p>之前跟着潇潇指弹的视频，学了一下抖音上比较火的friendship，还挺有意思，就放上来，玩一下，嘻嘻嘻嘻。<br><a id="more"></a></p><div style="width:100%;"><br><div style="transform: rotate(-90deg);margin-left: 28%; width: 50%;margin-top: -125px;"><br><div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"theme":"#FADFA3","loop":true,"video":{"url":"https://xuyonglinblog.oss-cn-beijing.aliyuncs.com/friendships.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><br><br></div><br></div>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>发现一个小技巧，把视频先传到抖音或者其他平台上去，平台应该会帮你压缩处理，然后下载下来，放到CDN上，就不会这么大了，哈哈哈哈哈。<br></p><p>之前跟着潇潇指弹的视频，学了一下抖音上比较火的friendship，还挺有意思，就放上来，玩一下，嘻嘻嘻嘻。<br><a id="more"></a></p><div style="width:100%;"><br><div style="transform: rotate(-90deg);margin-left: 28%; width: 50%;margin-top: -125px;"><br><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"https://xuyonglinblog.oss-cn-beijing.aliyuncs.com/friendships.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><br><br></div><br></div>]]></content>
     
     <summary type="html">
     
@@ -385,7 +385,7 @@
     <published>2018-05-20T08:41:37.000Z</published>
     <updated>2019-09-17T02:37:39.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>又到了周末啊，时间过得真快，今天看了看正则表达式，手痒啊，把之前学的流行的云录下来，好久没碰吉他了啊。</p><a id="more"></a><div id="dplayer5" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer5"),"theme":"#FADFA3","loop":true,"video":{"url":"https://xuyonglinblog.oss-cn-beijing.aliyuncs.com/Cloud.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>又到了周末啊，时间过得真快，今天看了看正则表达式，手痒啊，把之前学的流行的云录下来，好久没碰吉他了啊。</p><a id="more"></a><div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"theme":"#FADFA3","loop":true,"video":{"url":"https://xuyonglinblog.oss-cn-beijing.aliyuncs.com/Cloud.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
     
     <summary type="html">
     
@@ -407,7 +407,7 @@
     <published>2018-04-29T12:50:28.000Z</published>
     <updated>2019-09-17T02:43:01.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>如果有一天，不再敲代码，就去一家山清水秀的小城市开个小吉他店。</p></blockquote><a id="more"></a><p>喜欢岸部真明就是从这首曲子开始的，大学时光匆匆流逝，虽然有点吵，确实记录了大学一角，我的室友，我的吉他，我的音响，还有那些遗憾和憧憬。<br>(录得效果不好)</p><div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"theme":"#FADFA3","loop":true,"video":{"url":"https://xuyonglinblog.oss-cn-beijing.aliyuncs.com/VID20180416232819.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>如果有一天，不再敲代码，就去一家山清水秀的小城市开个小吉他店。</p></blockquote><a id="more"></a><p>喜欢岸部真明就是从这首曲子开始的，大学时光匆匆流逝，虽然有点吵，确实记录了大学一角，我的室友，我的吉他，我的音响，还有那些遗憾和憧憬。<br>(录得效果不好)</p><div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"theme":"#FADFA3","loop":true,"video":{"url":"https://xuyonglinblog.oss-cn-beijing.aliyuncs.com/VID20180416232819.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
     
     <summary type="html">
     
